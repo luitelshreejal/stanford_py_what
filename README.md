@@ -12,7 +12,6 @@ The goal of this project is to match mentors with mentees based on predefined cr
 - **Data Handling**: Efficiently processes and manages mentor and mentee data.
 - **Notification System**: Uses `pywhatkit` to send notifications and reminders via WhatsApp.
 - **Customizable Criteria**: Allows customization of matching criteria to fit different needs and scenarios.
-- **User-Friendly Interface**: Simple and intuitive interface for users to interact with the system.
 
 ## Installation
 
