@@ -19,8 +19,8 @@ To run this project, you'll need to have Python installed on your machine. Follo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/luitelshreejal/stanford_py_what.git
-    cd stanford_py_what
+    git clone https://github.com/luitelshreejal/whatsappautomation.git
+    cd whatsappautomation
     ```
 
 2. **Create and activate a virtual environment**:
